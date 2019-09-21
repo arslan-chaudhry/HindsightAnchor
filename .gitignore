@@ -1,0 +1,11 @@
+*.pt
+*.pyc
+*.pdf
+*.tar.gz
+*.npz
+*.swp
+*tmp_*
+*MNIST_data*
+.nfs*
+results*
+*.pickle
